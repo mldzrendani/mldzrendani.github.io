@@ -32338,7 +32338,7 @@ var $async$cT=P.x(function(c,d){if(c===1){p=d
 t=q}while(true)switch(t){case 0:k=null
 q=4
 t=7
-return P.H(G.aCz("http://localhost:8080/"+b),$async$cT)
+return P.H(G.aCz("https://asset-management-app.herokuapp.com/"+b),$async$cT)
 case 7:m=d
 k=n.t5(m)
 q=2
@@ -32364,7 +32364,7 @@ var $async$cR=P.x(function(c,d){if(c===1){p=d
 t=q}while(true)switch(t){case 0:k=null
 q=4
 t=7
-return P.H(G.aD6("http://localhost:8080/"+a,b,n.b),$async$cR)
+return P.H(G.aD6("https://asset-management-app.herokuapp.com/"+a,b,n.b),$async$cR)
 case 7:m=d
 k=n.t5(m)
 q=2
@@ -32389,7 +32389,7 @@ a5N:function(a,b){var t=0,s=P.E(u.H),r=1,q,p=[],o=this,n,m,l
 var $async$eE=P.x(function(c,d){if(c===1){q=d
 t=r}while(true)switch(t){case 0:r=3
 t=6
-return P.H(G.auy("http://localhost:8080/"+b,o.b),$async$eE)
+return P.H(G.auy("https://asset-management-app.herokuapp.com/"+b,o.b),$async$eE)
 case 6:n=d
 if(n.b!==200)o.t5(n)
 r=1
@@ -32411,7 +32411,7 @@ aaS:function(a,b,c){var t=0,s=P.E(u.H),r=1,q,p=[],o=this,n,m,l
 var $async$pJ=P.x(function(d,e){if(d===1){q=e
 t=r}while(true)switch(t){case 0:r=3
 t=6
-return P.H(G.aD9("http://localhost:8080/"+b,c,o.b),$async$pJ)
+return P.H(G.aD9("https://asset-management-app.herokuapp.com/"+b,c,o.b),$async$pJ)
 case 6:n=e
 if(n.b!==200)o.t5(n)
 r=1
